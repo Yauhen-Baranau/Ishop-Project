@@ -1,0 +1,7 @@
+.tab {
+    border-collapse: collapse;
+    border: solid black 1px;
+    }
+.selected {
+    background-color: red;
+}

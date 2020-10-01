@@ -1,0 +1,10 @@
+
+
+[
+    {"name":"Iphone 5", "price":500,"url":"URL:", "quanity": 20, "code":1},
+    {"name":"Iphone 6", "price":600,"url":"URL:", "quanity": 40, "code":2},
+    {"name":"Iphone 7", "price":789,"url":"URL:", "quanity": 33, "code":3},
+    {"name":"Iphone XS", "price":100,"url":"URL:", "quanity": 55, "code":4},
+    {"name":"Iphone 11", "price":1256,"url":"URL:", "quanity": 34, "code":5}
+
+     ]

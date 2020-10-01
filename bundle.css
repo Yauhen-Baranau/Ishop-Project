@@ -1,0 +1,27 @@
+.tab1 {
+    border: solid black 1px;
+    width: 100px;
+    border-collapse: collapse;
+ }
+ .t1{
+    width: 100px; 
+    border-collapse: collapse;
+ }
+ 
+.tab {
+    border-collapse: collapse;
+    border: solid black 1px;
+    }
+.selected {
+    background-color: red;
+}.right {
+    color: red;
+}
+.flo {
+  float: left;
+  display: block;
+  width: 200px;
+  
+}
+
+/*# sourceMappingURL=bundle.css.map*/
